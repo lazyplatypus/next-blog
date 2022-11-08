@@ -2,7 +2,7 @@
 name: Daniel Kim
 avatar: /static/images/daniel.jpeg
 occupation: Principal Engineer
-company: Vercel
+company: New Relic
 email: dkim@newrelic.com
 twitter: https://twitter.com/learnwdaniel
 linkedin: https://www.linkedin.com/in/journeyer/
