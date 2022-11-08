@@ -1,9 +1,9 @@
 ---
-name: Hassan El Mghari
+name: Daniel Kim
 avatar: /static/images/me_compressed.png
 occupation: Developer Advocate
 company: Vercel
-email: hassan@hey.com
+email: Daniel@hey.com
 twitter: https://twitter.com/nutlope
 linkedin: https://www.linkedin.com/in/nutlope/
 github: https://github.com/nutlope
